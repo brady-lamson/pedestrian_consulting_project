@@ -7,3 +7,13 @@
     - Author: Gino Savaria
     - Why: Provides a lot of background information on fatal accidents in Grand County. 
     - Trust level: High
+
+- Sky-Hi News: How will Grand County make its roads safer?
+    - Type: Web
+    - Link: [direct link](https://www.skyhinews.com/news/how-will-grand-county-make-its-roads-safer/)
+    - Link: [HTML file](web/2026-02-01-sky_hi_news_grand_county_safety_symposium.html)
+    - Date captured: 2026-02-01
+    - Source date: 2025-12-12
+    - Author: Gino Savaria
+    - Why: Lots of detail information on the safety symposium held by Grand County officials. Also includes a 2 hour youtube video of the event.
+    - Trust level: High
