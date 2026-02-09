@@ -17,3 +17,12 @@
     - Author: Gino Savaria
     - Why: Lots of detail information on the safety symposium held by Grand County officials. Also includes a 2 hour youtube video of the event.
     - Trust level: High
+
+- Grandby Comprehensive Master Plan 2023
+    - Type: PDF
+    - Link: [direct link](https://www.townofgranby.com/vertical/sites/%7B89161B06-4754-446C-B6BF-16585CE8AB42%7D/uploads/Granby_Comprehensive_Plan_Final_07_2023.pdf)
+    - Link: [PDF](pdf/Granby_Comprehensive_Plan_Final_07_2023.pdf)
+    - Date captured: 2026-02-08
+    - Source date: 2023-07-01
+    - Author: Town of Grandby
+    - Why: This source is huge but outlines a multi year roadmap for the town of Grandby. I believe it includes information that will be relevant to the rec center project. I think it's worth having as a solid reference and source to get background information on this towns goals. 
