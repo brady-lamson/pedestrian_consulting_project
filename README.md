@@ -10,7 +10,7 @@ N/A
 
 **Brady Lamson:** `brady.lamson@ucdenver.edu`
 
-**Davyd Sadovskyy:** `Davyd.Sadovskyy@ucdenver.edu`
+**Davyd Sadovskyy:** `davyd.2.sadovskyy@cuanschutz.edu`
 
 ## Repository Layout and Navigation
 
