@@ -9,4 +9,8 @@
 |VPD|Vehicles per day|
 |RRFB|Rectangular rapid flashing beacons|
 |MOE|Measures of Effectiveness|
-|LOS|Level of service|
+|LOS|Level of service - How well is the intersection performing|
+|TWSC|Two way stop controlled|
+|NBL|North bound left|
+|NBR|North bound right|
+|NBT|North bound through|
