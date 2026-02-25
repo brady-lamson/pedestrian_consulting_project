@@ -14,3 +14,5 @@
 |NBL|North bound left|
 |NBR|North bound right|
 |NBT|North bound through|
+|Int Delay, s/veh|Intersection delay, seconds per vehicle|
+|HCM|Highway capacity Manual|
