@@ -1,3 +1,21 @@
+# Primary Sources
+
+- Agate Avenue – Signal Warrant Study and Operational Assessment 
+    - Link [PDF](pdf/AgateSignalWarrant_250619r_signed.pdf)
+    - Date captured: 2026-02-13
+    - Source date: 2025-06-19
+    - Author: Dan Cokley - Principal Engineer at SGM
+    - Why: This report contains a detailed analysis on the traffic volumes at 4th and 6th street. It includes the firms overall findings as well as a surplus of their result tables. 
+
+- Mesa St & Agate Ave (US 40) – Pedestrian Crossing Analysis
+    - Link [PDF](pdf/Mesa&Agate_RRFB_Memo.pdf)
+    - Date captured: 2026-02-13
+    - Source date: 2025-05-02
+    - Author: Eric Mahoney, EI - Dan Cokley, PE
+    - Why: This report contains the pedestrian crossing analysis on mesa st. Contains their observed values on pedestrian volume and their methods of scaling these values based on the time of year. 
+
+# Supplemental Sources
+
 - Sky-Hi News: Grand County sees its deadliest year on roadways in a decade
     - Type: Web
     - Link: [direct link](https://www.skyhinews.com/news/grand-county-sees-its-deadliest-year-on-roadways-in-a-decade/)
@@ -33,3 +51,10 @@
     - Source date: Nov 10, 2023
     - Author: Emily Gutierrez
     - Why: This article has an image of the planned Granby Market Square. This is relevant because it lies on the intersection of Agate avenue and 4th street. One of the exact intersections of interest for us. 
+
+- Youtube: Synchro Tutorial for Beginners Part 1 - Signal Controller 
+    - Link [direct link](https://www.youtube.com/watch?v=GgTPlmVBkfs&t=1s)
+    - Date captured: 2026-02-24
+    - Source date: 2025-12-27
+    - Author: Traffic Trainer
+    - Why: This youtube channel has two videos, 15 minutes total, on setting up an intersection and simulating it in Synchro. It helps explain a lot of the tables we have in our reports and the kind of stuff SGM was doing during their own analysis. 
