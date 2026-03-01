@@ -1,19 +1,17 @@
-how would this set of sources look like as a markdown table or two? 
-
 # Primary Sources
 
 - Agate Avenue – Signal Warrant Study and Operational Assessment 
     - Link [PDF](pdf/AgateSignalWarrant_250619r_signed.pdf)
     - Date captured: 2026-02-13
     - Source date: 2025-06-19
-    - Author: Dan Cokley - Principal Engineer at SGM
+    - Author: SGM - Dan Cokley - Principal Engineer
     - Why: This report contains a detailed analysis on the traffic volumes at 4th and 6th street. It includes the firms overall findings as well as a surplus of their result tables. 
 
 - Mesa St & Agate Ave (US 40) – Pedestrian Crossing Analysis
     - Link [PDF](pdf/Mesa&Agate_RRFB_Memo.pdf)
     - Date captured: 2026-02-13
     - Source date: 2025-05-02
-    - Author: Eric Mahoney, EI - Dan Cokley, PE
+    - Author: SGM - Eric Mahoney, EI - Dan Cokley, PE
     - Why: This report contains the pedestrian crossing analysis on mesa st. Contains their observed values on pedestrian volume and their methods of scaling these values based on the time of year. 
 
 # Supplemental Sources
@@ -68,3 +66,10 @@ how would this set of sources look like as a markdown table or two?
     - Source date: 2025-05-31
     - Author: Emily Gutierrez
     - Why: This article details the traffic calming plans for Mesa and Agate, with some useful financial info we wouldn't otherwise have. 
+
+- Mesa St & Agate Ave - Project Proposal and Cost Breakdown
+    - Link [PDF](pdf/sgm-mesa-pedestrian-crossing-proposal.pdf)
+    - Date captured: 2026-03-01
+    - Source date: 2025-05-07
+    - Author: SGM - Dan Cokley - Principal Engineer
+    - Why: Contains specific details about the final proposal for Mesa and an itemized breakdown of the anticipated costs for the project. 

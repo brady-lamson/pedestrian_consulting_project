@@ -10,14 +10,25 @@
 
 # Historic log entries
 
+SGM’s proposal includes a need to contract for utility potholing since the town does not have the neccessary equipment for potholing. Cherry explained that potholing would allow the discovery of utilities before the design process, which would save engineers the effort of having to redesign plans.
+
+The attached proposal suggests a cost of $19,500 for SGM design work and up to $10,000 for potholing services. Construction costs for the crosswalk are estimated to be in the $60,000-$80,000 range by SGM engineers based on recent similar projects and Granby construction prices. 
+
 - 2026-03-01
     - Author: Brady
     - Learned: 
         - Light is being installed at 4th street, 6th street diversion appears to be the gameplan. 
         - Bulbout is being installed on Mesa. 
         - 4th street work is estimated to cost $986k, with the signal itself running for about $240k of that total (1). 
+        - Mesa Street work is estimated to have the following cost breakdown (2):
+            - $20k for design work
+            - $10k for potholing services
+            - $60-80k for crosswalk construction
+        - Our pedestrian volume data is summary info. Total pedestrians and pedestrians per hour. We do not know WHEN people crossed or how long it took. 
+        - Approaching Mesa street (East Bound) has a speed limit of 30MPH. Speed limit goes from 50 to 45 to 30 as one travels further into town.  
     - Evidence
         - [1, Probable cost of 4th street work](sources/pdf/377_AGATESIGNAL-SAQ&EOPC-CONCEPT.pdf)
+        - [2, Sky-Hi News: Flashing crosswalk on Mesa](sources/web/2026-03-01-sky_hi_news_mesa_flashing_crossingwalk.html)
 
 - 2026-02-24
     - Author: Brady
