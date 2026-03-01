@@ -48,7 +48,7 @@
     - Link [direct link](https://www.skyhinews.com/news/residents-in-the-granby-north-service-area-could-see-their-water-rates-increase-up-to-50-in-2024/)
     - Link: [HTML file](web/2026-02-17-sky_hi_news_granby_water_rate_increase.html)
     - Date captured: 2026-02-17
-    - Source date: Nov 10, 2023
+    - Source date: 2023-11-10
     - Author: Emily Gutierrez
     - Why: This article has an image of the planned Granby Market Square. This is relevant because it lies on the intersection of Agate avenue and 4th street. One of the exact intersections of interest for us. 
 
@@ -58,3 +58,29 @@
     - Source date: 2025-12-27
     - Author: Traffic Trainer
     - Why: This youtube channel has two videos, 15 minutes total, on setting up an intersection and simulating it in Synchro. It helps explain a lot of the tables we have in our reports and the kind of stuff SGM was doing during their own analysis. 
+
+- Ski-Hi News: Flashing crosswalk coming to Agate and Mesa
+    - Link [direct link](https://www.skyhinews.com/news/new-flashing-crosswalk-coming-to-highway-40-and-mesa-street-intersection-in-granby/)
+    - Link [HTML file](web/2026-03-01-sky_hi_news_mesa_flashing_crossingwalk.html)
+    - Date captured: 2026-03-01
+    - Source date: 2025-05-31
+    - Author: Emily Gutierrez
+    - Why: This article details the traffic calming plans for Mesa and Agate, with some useful financial info we wouldn't otherwise have. 
+
+# Table
+
+# Primary Sources
+| Title | Type | Author(s) | Source Date | Date Captured | Link | Why It’s Relevant |
+|-------|------|-----------|------------|--------------|------|------------------|
+| Agate Avenue – Signal Warrant Study and Operational Assessment | PDF | Dan Cokley – Principal Engineer, SGM | 2025-06-19 | 2026-02-13 | [PDF](pdf/AgateSignalWarrant_250619r_signed.pdf) | Detailed traffic volume analysis at 4th and 6th Street, including firm findings and extensive result tables. |
+| Mesa St & Agate Ave (US 40) – Pedestrian Crossing Analysis | PDF | Eric Mahoney, EI; Dan Cokley, PE | 2025-05-02 | 2026-02-13 | [PDF](pdf/Mesa&Agate_RRFB_Memo.pdf) | Pedestrian crossing analysis for Mesa St; includes observed pedestrian volumes and seasonal scaling methodology. |
+
+# Supplemental Sources
+| Title | Type | Author(s) | Source Date | Date Captured | Link(s) | Why It’s Relevant |
+|-------|------|-----------|------------|--------------|---------|------------------|
+| Sky-Hi News: Grand County sees its deadliest year on roadways in a decade | Web | Gino Savaria | 2025-12-31 | 2026-02-01 | [Direct](https://www.skyhinews.com/news/grand-county-sees-its-deadliest-year-on-roadways-in-a-decade/) • [HTML](web/2026-02-01-sky_hi_news_grand_county_crashes.html) | Background information on fatal accidents in Grand County. |
+| Sky-Hi News: How will Grand County make its roads safer? | Web | Gino Savaria | 2025-12-12 | 2026-02-01 | [Direct](https://www.skyhinews.com/news/how-will-grand-county-make-its-roads-safer/) • [HTML](web/2026-02-01-sky_hi_news_grand_county_safety_symposium.html) | Details from the Grand County safety symposium; includes 2-hour YouTube event recording. |
+| Granby Comprehensive Master Plan 2023 | PDF | Town of Granby | 2023-07-01 | 2026-02-08 | [Direct](https://www.townofgranby.com/vertical/sites/%7B89161B06-4754-446C-B6BF-16585CE8AB42%7D/uploads/Granby_Comprehensive_Plan_Final_07_2023.pdf) • [PDF](pdf/Granby_Comprehensive_Plan_Final_07_2023.pdf) | Long-term strategic plan for Granby; relevant to Rec Center project and broader town development goals. |
+| Sky-Hi News: Residents in the Granby north service area could see their water rates increase up to 50% in 2024 | Web | Emily Gutierrez | 2023-11-10 | 2026-02-17 | [Direct](https://www.skyhinews.com/news/residents-in-the-granby-north-service-area-could-see-their-water-rates-increase-up-to-50-in-2024/) • [HTML](web/2026-02-17-sky_hi_news_granby_water_rate_increase.html) | Contains image of planned Granby Market Square at Agate Ave & 4th St (intersection of interest). |
+| YouTube: Synchro Tutorial for Beginners Part 1 – Signal Controller | Video | Traffic Trainer | 2025-12-27 | 2026-02-24 | [Direct](https://www.youtube.com/watch?v=GgTPlmVBkfs&t=1s) | Explains Synchro setup and simulation; helps interpret SGM report tables and methodology. |
+| Sky-Hi News: Flashing crosswalk coming to Agate and Mesa | Web | Emily Gutierrez | 2025-05-31 | 2026-03-01 | [Direct](https://www.skyhinews.com/news/new-flashing-crosswalk-coming-to-highway-40-and-mesa-street-intersection-in-granby/) • [HTML](web/2026-03-01-sky_hi_news_mesa_flashing_crossingwalk.html) | Details traffic calming plans for Mesa & Agate, including financial information. |
