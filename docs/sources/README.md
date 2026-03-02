@@ -18,7 +18,7 @@
 
 - Sky-Hi News: Grand County sees its deadliest year on roadways in a decade
     - Type: Web
-    - Link: [direct link](https://www.skyhinews.com/news/grand-county-sees-its-deadliest-year-on-roadways-in-a-decade/)
+    - Link: [Direct](https://www.skyhinews.com/news/grand-county-sees-its-deadliest-year-on-roadways-in-a-decade/)
     - Link: [HTML file](web/2026-02-01-sky_hi_news_grand_county_crashes.html)
     - Date captured: 2026-02-01
     - Source date: 2025-12-31
@@ -27,7 +27,7 @@
 
 - Sky-Hi News: How will Grand County make its roads safer?
     - Type: Web
-    - Link: [direct link](https://www.skyhinews.com/news/how-will-grand-county-make-its-roads-safer/)
+    - Link: [Direct](https://www.skyhinews.com/news/how-will-grand-county-make-its-roads-safer/)
     - Link: [HTML file](web/2026-02-01-sky_hi_news_grand_county_safety_symposium.html)
     - Date captured: 2026-02-01
     - Source date: 2025-12-12
@@ -36,7 +36,7 @@
 
 - Grandby Comprehensive Master Plan 2023
     - Type: PDF
-    - Link: [direct link](https://www.townofgranby.com/vertical/sites/%7B89161B06-4754-446C-B6BF-16585CE8AB42%7D/uploads/Granby_Comprehensive_Plan_Final_07_2023.pdf)
+    - Link: [Direct](https://www.townofgranby.com/vertical/sites/%7B89161B06-4754-446C-B6BF-16585CE8AB42%7D/uploads/Granby_Comprehensive_Plan_Final_07_2023.pdf)
     - Link: [PDF](pdf/Granby_Comprehensive_Plan_Final_07_2023.pdf)
     - Date captured: 2026-02-08
     - Source date: 2023-07-01
@@ -45,7 +45,7 @@
 
 - Ski-Hi News: Residents in the Granby north service area could see their water rates increase up to 50% in 2024
     - Type: Web
-    - Link [direct link](https://www.skyhinews.com/news/residents-in-the-granby-north-service-area-could-see-their-water-rates-increase-up-to-50-in-2024/)
+    - Link [Direct](https://www.skyhinews.com/news/residents-in-the-granby-north-service-area-could-see-their-water-rates-increase-up-to-50-in-2024/)
     - Link: [HTML file](web/2026-02-17-sky_hi_news_granby_water_rate_increase.html)
     - Date captured: 2026-02-17
     - Source date: 2023-11-10
@@ -53,14 +53,14 @@
     - Why: This article has an image of the planned Granby Market Square. This is relevant because it lies on the intersection of Agate avenue and 4th street. One of the exact intersections of interest for us. 
 
 - Youtube: Synchro Tutorial for Beginners Part 1 - Signal Controller 
-    - Link [direct link](https://www.youtube.com/watch?v=GgTPlmVBkfs&t=1s)
+    - Link [Direct](https://www.youtube.com/watch?v=GgTPlmVBkfs&t=1s)
     - Date captured: 2026-02-24
     - Source date: 2025-12-27
     - Author: Traffic Trainer
     - Why: This youtube channel has two videos, 15 minutes total, on setting up an intersection and simulating it in Synchro. It helps explain a lot of the tables we have in our reports and the kind of stuff SGM was doing during their own analysis. 
 
 - Ski-Hi News: Flashing crosswalk coming to Agate and Mesa
-    - Link [direct link](https://www.skyhinews.com/news/new-flashing-crosswalk-coming-to-highway-40-and-mesa-street-intersection-in-granby/)
+    - Link [Direct](https://www.skyhinews.com/news/new-flashing-crosswalk-coming-to-highway-40-and-mesa-street-intersection-in-granby/)
     - Link [HTML file](web/2026-03-01-sky_hi_news_mesa_flashing_crossingwalk.html)
     - Date captured: 2026-03-01
     - Source date: 2025-05-31
@@ -73,3 +73,17 @@
     - Source date: 2025-05-07
     - Author: SGM - Dan Cokley - Principal Engineer
     - Why: Contains specific details about the final proposal for Mesa and an itemized breakdown of the anticipated costs for the project. 
+
+- Highway Safety Manual - Crash Modification Factors
+    - Link [Direct](https://www.highwaysafetymanual.org/Pages/support_answers.aspx#87)
+    - Date captured: 2026-03-01
+    - Source date: Unclear, 2018?
+    - Author: HSM
+    - Why: Contains information on CMFs, crash modification factors, that quantify the change in risk as certain traffic measures are taken. 
+
+- Crash modification factors clearinghouse
+    - Link [Direct](https://cmfclearinghouse.fhwa.dot.gov/cmf_data.php)
+    - Date captured: 2026-03-01
+    - Source date: 2025-11-10
+    - Author: US Department of Transportation
+    - Why: Contains a large dataset of CMFs and all of the relevant scenarios that are used to generate their values.

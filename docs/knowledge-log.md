@@ -2,17 +2,17 @@
 
 ## Project goal
 
+This project seeks to quantify the pedestrian risk reduction that will result from the traffic calming measures proposed by SGM. 
+
 ## Current understanding
 
 ## Known limitations and assumptions
 
 ## Top open questions
 
-# Historic log entries
+# Research Log Entries
 
-SGM’s proposal includes a need to contract for utility potholing since the town does not have the neccessary equipment for potholing. Cherry explained that potholing would allow the discovery of utilities before the design process, which would save engineers the effort of having to redesign plans.
-
-The attached proposal suggests a cost of $19,500 for SGM design work and up to $10,000 for potholing services. Construction costs for the crosswalk are estimated to be in the $60,000-$80,000 range by SGM engineers based on recent similar projects and Granby construction prices. 
+This section is for documenting notes as progress is made through the project. 
 
 - 2026-03-01
     - Author: Brady
@@ -25,10 +25,15 @@ The attached proposal suggests a cost of $19,500 for SGM design work and up to $
             - $10k for potholing services
             - $60-80k for crosswalk construction
         - Our pedestrian volume data is summary info. Total pedestrians and pedestrians per hour. We do not know WHEN people crossed or how long it took. 
-        - Approaching Mesa street (East Bound) has a speed limit of 30MPH. Speed limit goes from 50 to 45 to 30 as one travels further into town.  
+        - Agate avenue speed limit is 30mph through downtown with speeds moving up to 50mph as distance from downtown increases. 
+        - Our goal has been officially stated as "quantify the pedestrian risk reduction that will result from the traffic calming measures proposed by SGM." 
+        - For modeling risk, there exist certain factors called CMFs, or crash modification factors. These quantify the expected change in risk after the implementation of some traffic measure (3).
     - Evidence
         - [1, Probable cost of 4th street work](sources/pdf/377_AGATESIGNAL-SAQ&EOPC-CONCEPT.pdf)
         - [2, Sky-Hi News: Flashing crosswalk on Mesa](sources/web/2026-03-01-sky_hi_news_mesa_flashing_crossingwalk.html)
+        - [3, HSM, Crash modification factors](https://www.highwaysafetymanual.org/Pages/support_answers.aspx#87)
+    - Thoughts:
+        - With a clear purpose now stated by the client, I now have more of a clear vision for where we can take this project. Instead of modeling traffic, we can use the simulation already performed to quantify risk. This is something that has been done and we can leverage existing research on the topic to use the metrics we already have to implement it. I believe CMFs will be huge here, as these traffic calming measures are standard and well understood. We can still perform simulations for this project by using Monte Carlo later on once we have some actual objects to work with. 
 
 - 2026-02-24
     - Author: Brady
@@ -52,7 +57,7 @@ The attached proposal suggests a cost of $19,500 for SGM design work and up to $
         - [1, Agate Signal Warrant Analysis](sources/pdf/AgateSignalWarrant_250619r_signed.pdf)
         - [2, Sky Hi News Grand County Crashes](sources/web/2026-02-01-sky_hi_news_grand_county_crashes.html)
     - Thoughts:
-        It is currently unclear to me what kind of work we will be doing on this project. Are we going to be replicating these results? Going beyond them? If we're replicating how do we learn the modeling techniques used by SGM and CDOT? It seems to use software appears to be proprietary. My understanding is our results will help back up the decision to install new streetlights, but what will those results be and how will we collect them? 
+        - It is currently unclear to me what kind of work we will be doing on this project. Are we going to be replicating these results? Going beyond them? If we're replicating how do we learn the modeling techniques used by SGM and CDOT? It seems to use software appears to be proprietary. My understanding is our results will help back up the decision to install new streetlights, but what will those results be and how will we collect them? 
 
 - 2026-02-12
     - Author: Brady
