@@ -16,3 +16,4 @@
 |NBT|North bound through|
 |Int Delay, s/veh|Intersection delay, seconds per vehicle|
 |HCM|Highway capacity Manual|
+|CMF|Crash modification factors|
