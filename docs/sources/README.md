@@ -16,14 +16,6 @@
 - Author: SGM - Eric Mahoney, EI - Dan Cokley, PE
 - Why: This report contains the pedestrian crossing analysis on Mesa St. Contains their observed values on pedestrian volume and their methods of scaling these values based on the time of year.
 
-### Colorado Department of Transportation - Online Transportation Information System
-
-- Link: [Direct](dtdapps.coloradodot.info/otis/TrafficData#ui/0/1/2/station/101868/criteria/31605//true/true/)
-- Date captured: 2026-03-08
-- Source date: Current
-- Author: CDOT
-- Why: Contains official measurements of traffic volume across all of Colorado. Contains key metrics like AADT, DHV, and others. Key source for everything related to Colorado traffic information. 
-
 # Supplemental Sources
 
 ### Sky-Hi News: Grand County sees its deadliest year on roadways in a decade
@@ -106,3 +98,19 @@
 - Source date: 2025-11-10
 - Author: US Department of Transportation
 - Why: Contains a large dataset of CMFs and all of the relevant scenarios that are used to generate their values.
+
+### Colorado Department of Transportation - Online Transportation Information System
+
+- Link: [Direct](dtdapps.coloradodot.info/otis/TrafficData#ui/0/1/2/station/101868/criteria/31605//true/true/)
+- Date captured: 2026-03-08
+- Source date: Current
+- Author: CDOT
+- Why: Contains official measurements of traffic volume across all of Colorado. Contains key metrics like AADT, DHV, and others. Key source for everything related to Colorado traffic information. 
+
+### Federal Highway Administration - Traffic Data Computation Method Pocket Guide
+
+- Link: [PDF](pdf/pl18027_traffic_data_pocket_guide.pdf)
+- Date captured: 2026-03-08
+- Source date: 2018-08-01
+- Author: US Department of Transportation - Federal Highway Administration
+- Why: Handy FHWA pocket reference covering common traffic data concepts, terminology, and calculation methods.
