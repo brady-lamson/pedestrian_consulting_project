@@ -54,3 +54,33 @@ Common practice is to multiply the two treatment CMFs together. So for a project
 An entire database of CMFs can be found from the federal department of transportation. Complete with a data dictionary and information on thousands of traffic measures accounting for a variety of different situations.
 
 [link](https://cmfclearinghouse.fhwa.dot.gov/cmf_data.php)
+
+# CMF Digging
+
+Here I will compile some of my initial findings on CMFs that may/may not be relevant to this project. 
+
+### Countermeasure: Install pedestrian crossing (signed and marked with curb ramps and extensions)
+
+- [link 1](https://cmfclearinghouse.fhwa.dot.gov/study_detail.php?stid=73)
+- [link 2](https://cmfclearinghouse.fhwa.dot.gov/detail.php?facid=1786)
+- Countemeasure ID: 1786
+- Crash modification factor: 0.63
+- Crash reduction factor: 1 - 0.63 = 0.37
+
+This indicates that this countermeasure, which seems to be the closest to the bulbout/curb extension category, reduces pedestrian related accidents by 37%. 
+
+**QUALITY WARNING:** 
+
+> This CMF cannot be rated in the Clearinghouse because it appears in the 1st Edition of the Highway Safety Manual without an adjusted standard error.
+
+### Idea: Use a possible lane reduction CMF as a proxy for what the curb extensions do anyway?
+
+Doesn't seem feasible. There don't actually seem to be any CMFs for lane reduction at all, and certainly none within our situation. 
+
+### Countermeasure: Install a traffic signal
+
+|Crash Type|CMF Value|Std error|Link|
+|---|---|---|---|
+|All|0.56|0.03|[CMID 325](https://cmfclearinghouse.fhwa.dot.gov/detail.php?facid=325)|
+|Rear ends|1.58|0.17|[CMID 328](https://cmfclearinghouse.fhwa.dot.gov/detail.php?facid=328)
+|Left turn|0.4|0.06|[CMID 327](https://cmfclearinghouse.fhwa.dot.gov/detail.php?facid=327)

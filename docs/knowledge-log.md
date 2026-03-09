@@ -14,6 +14,26 @@ This project seeks to quantify the pedestrian risk reduction that will result fr
 
 This section is for documenting notes as progress is made through the project. 
 
+- 2026-03-08
+    - Author: Brady
+    - Learned:
+        - CDOT has a resource called OTIS (online transportation information system). It has detailed traffic info on most of the roads/highways/etc in Colorado. They actually have key metrics we need for agate avenue. This data is described by various mile segments of road. 
+        - Segment of interest: A roughly mile segment extending slightly outside of downtown through to 6th street intersection. 
+        - Key metrics for this section [1].
+            - Year: 2024
+            - AADT: 11,000
+            - DHV: 15
+        - It turns out this information was always provided in the Mesa report and I never noticed. They even cite the exact same counting station I did for this value. 
+        - Following the guide in the mesa report on converting peak hour pedestrian volumes to annual volumes gave me the following estimations:
+            - Daily volume: 70
+            - Weekly volume: 583.33
+            - Monthly volume: 2525.83
+            - Annual volume: 50516.67
+        - There are many different definitions of risk and exposure. I'll need to pick the appropriate one based on the type of data we have and our goals. 
+            - The **volume** definition mentioned in `docs/notes/pedestrian-exposure.md` meets our needs I feel. 
+    - Evidence:
+        - [1, CDOT OTIS](https://dtdapps.coloradodot.info/otis/TrafficData#ui/0/1/2/station/101868/criteria/31605//true/true/)
+
 - 2026-03-01
     - Author: Brady
     - Learned: 
